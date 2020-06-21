@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Introduction</title>
-    <link>https://desirajusantosh.github.io/santosh/tags/blog/</link>
+    <link>https://desirajusantosh.github.io/santoshdesiraju.github.io/tags/blog/</link>
     <description>Recent content in blog on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 20:18:53 -0500</lastBuildDate>
     
-	<atom:link href="https://desirajusantosh.github.io/santosh/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://desirajusantosh.github.io/santoshdesiraju.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://desirajusantosh.github.io/santosh/blog/long-form-post/</link>
+      <link>https://desirajusantosh.github.io/santoshdesiraju.github.io/blog/long-form-post/</link>
       <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
       
-      <guid>https://desirajusantosh.github.io/santosh/blog/long-form-post/</guid>
+      <guid>https://desirajusantosh.github.io/santoshdesiraju.github.io/blog/long-form-post/</guid>
       <description>Hello World, after several failed attempts. Here I&amp;rsquo;m with my space on the internet.</description>
     </item>
     
